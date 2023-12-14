@@ -1,0 +1,29 @@
+
+
+word_result = search_word_in_string('apple', 'I have an apple.')
+print(word_result)
+
+
+
+
+
+digit_result = contains_digits('Hello123')
+print(digit_result)
+
+
+
+
+space_result = replace_spaces_with_dashes('Replace spaces with dashes')
+print(space_result)
+
+
+
+
+phone_result = is_valid_phone_number('12-345-6789')
+print(phone_result)
+
+
+
+
+email_result = is_valid_email('example@email.com')
+print(email_result)
